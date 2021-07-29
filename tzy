@@ -1,0 +1,10 @@
+{
+  "Visibility": "VISIBLE",
+  "Title": "Update",
+  "Description": "Please Update Apk",
+  "MainTextButton": "Update",
+  "Cancelable": "true",
+  "CancelButtonText": "Cancel",
+  "DownloadLink": "https://github.com/FREDOTZY/Floral-Knight/raw/main/Injector_1.0.apk",
+  "Version": "1.1"
+}
